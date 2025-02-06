@@ -63,7 +63,7 @@ G
 1.     Features: {self.d}
 2.  Sample Size: {self.n}
 3.     Variance: {self.var()[0]:.5f}
-4.  S.Diviation: {self.std()[0]:.5f}
+4.  S.Deviation: {self.std()[0]:.5f}
 5. Significance: {self.sig()[0]}
 6.    Relevance: {self.R2()[0]:.5f}
 
